@@ -29,6 +29,9 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,unity,github,git,html,javascript,css,mongodb&perline=5)](https://skillicons.dev)
 
+![Abhik Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=avi974&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avi974&theme=dark)
 
 <br>
 ⭐️ From [abhik anand](https://github.com/Avi974)
