@@ -34,4 +34,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avi974&theme=dark)
 
 <br>
-⭐️ From [abhik anand](https://github.com/Avi974)
+⭐️ From [Abhik Anand] (https://github.com/Avi974)
