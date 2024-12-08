@@ -1,16 +1,34 @@
-## Hi there 👋
+ <h1 align="center">Hi,I'm Abhik Anand</h1>
 
-<!--
-**Avi974/Avi974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Backend
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me anything about web dev 
+- 📫 How to reach me: anand.firm.dev@gmail.com
+- 😄 My website: 
+- ⚡ Fun fact: 
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/Avi974">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+<!--   <a href="">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a> -->
+   <a href="https://www.instagram.com/avixoxo_7">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+<!--    <a href="">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a> -->
+   <a href="https://x.com/Abhik0811281850">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br>
+⭐️ From [abhik anand](https://github.com/Avi974)
