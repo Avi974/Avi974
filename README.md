@@ -5,7 +5,6 @@
 - 💬 Ask me anything about web dev 
 - 📫 How to reach me: anand.firm.dev@gmail.com
 - 😄 My website: 
-- ⚡ Fun fact: 
   
 ### Connect with me:
 <div id="badges">
