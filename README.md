@@ -17,6 +17,9 @@
   <a href="https://github.com/Avi974">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
+  <a href="https://portfolio-sandy-nu-ye48atciv6.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
   <a href="mailto:anand.firm.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
