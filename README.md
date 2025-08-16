@@ -6,8 +6,8 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on **Backend development** and building robust server-side applications.
-- 🌱 I’m currently learning **Flutter** to build beautiful, cross-platform mobile apps.
-- 👯 I’m looking to collaborate on open-source backend projects or innovative Flutter applications.
+- 🌱 I’m currently learning **BlockChain** and **ML**
+- 👯 I’m looking to collaborate on open-source backend projects or innovative Blockchain and ML application.
 - 💬 Ask me anything about **web development**, especially backend technologies.
 - 📫 How to reach me: **anand.firm.dev@gmail.com**
 
