@@ -41,7 +41,7 @@
 
 ---
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=gruvbox&layout=horizontal)
 
 ---
 ### 🔝 Top Contributed Repo
