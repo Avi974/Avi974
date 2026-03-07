@@ -40,7 +40,7 @@
   <a href="https://github.com/Avi974">
     <img src="https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=Github&logoColor=white" alt="Github"/>
   </a>
-  <a href="https://portfolio-sandy-nu-ye48atciv6.vercel.app/">
+  <a href="https://abhikportfolio-alpha.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:anand.firm.dev@gmail.com">
