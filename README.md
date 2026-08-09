@@ -1,133 +1,124 @@
-<div align="center">
-  <img height="200" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433"  />
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Abhik+Anand;Backend+Developer+%F0%9F%92%BB;Blockchain+Enthusiast+%E2%9B%93;ML+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Abhik%20Anand%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=debugging%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Avi974&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Avi974?label=Followers&style=social" alt="followers" />
+  <a href="https://komarev.com/ghpvc/?username=Avi974">
+    <img src="https://komarev.com/ghpvc/?username=Avi974&label=Profile%20views&color=00FFFF&style=flat-square" alt="Avi974's profile views" />
+  </a>
 </p>
 
-<div align="center">
-  
-### 🚀 Passionate Backend Developer | Building Scalable Solutions | Open Source Contributor
+<img src="https://i.pinimg.com/originals/0c/f6/dc/0cf6dcd008c19dedbd458932a787cc8a.gif" alt="Banner" width="100%" />
 
-</div>
-
----
-
-## 💫 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🔭 Currently working on **Backend Development** & building robust server-side applications
-- 🌱 Learning **Blockchain** & **Machine Learning**
-- 👯 Open to collaborate on **Open-source projects**, **Blockchain**, and **ML applications**
-- 💬 Ask me about **Web Development**, **Backend Technologies**, **APIs**
-- 📫 Reach me at: **anand.firm.dev@gmail.com**
+## 📌 About Me
+- 🔭 Currently working on Backend Development & building robust server-side applications
+- 🌱 Learning Blockchain & Machine Learning
+- 👯 Open to collaborate on Open-source projects, Blockchain, and ML applications
+- 💬 Ask me about Web Development, Backend Technologies, APIs
+- 📫 Reach me at: anand.firm.dev@gmail.com
 - ⚡ Fun fact: I turn coffee ☕ into code 💻
 
-<br clear="right"/>
 
----
+## 🧠 My Focus Areas
+- Backend Development | Scalable Systems | UI/UX Design
 
-## 🌐 Connect With Me
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Avi974">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avi974&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="Avi974's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Avi974&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="Avi974's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Avi974&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abhik Anand 's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Avi974&theme=highcontrast&radius=10" alt="Avi974's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
+
+</p>
 
 <p align="center">
   <a href="https://github.com/Avi974">
-    <img src="https://img.shields.io/badge/Github-%23181717.svg?style=for-the-badge&logo=Github&logoColor=white" alt="Github"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Avi974&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
   </a>
-  <a href="https://abhikportfolio-alpha.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=Avi974)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhik-anand-2b078a188/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:anand.firm.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://abhikportfolio-alpha.vercel.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
-  <a href="https://linkedin.com/in/abhik-anand">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
-
----
-
-## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,unity,javascript,html,css,mongodb,nodejs,express,git,github,vscode,python,react&perline=7" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-### 🎯 Core Skills
-
-```text
-Backend        ████████████████░░░  80%
-Frontend       ███████████░░░░░░░░  55%
-Blockchain     ██████████░░░░░░░░░  50%
-Machine Learning █████████░░░░░░░░  45%
-```
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Avi974&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Avi974&theme=tokyonight&hide_border=true" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avi974&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Avi974&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Avi974&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="trophies" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avi974&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🚀 Contribution Space Shooter
-
-<p align="center">
-  <img src="space-shooter.gif" alt="Space shooter contribution graph" />
-</p>
-
----
-
-## ✍️ Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Avi974&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
-</div>
-
----
-
-<div align="center">
-  
-### 💙 Thanks for visiting! Let's connect and build something amazing together! 🚀
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
-</div>
