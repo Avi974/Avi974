@@ -24,12 +24,12 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Avi974">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avi974&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="Avi974's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avi974&include_all_commits=true&count_private=true&layout=compact&theme=highcontrast&border_radius=10" alt="Avi974's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=Avi974&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="Avi974's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Avi974&theme=highcontrast&hide_border=true" alt="Avi974's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Avi974&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Abhik Anand 's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Avi974&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4" alt="Abhik Anand 's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Avi974&theme=highcontrast&radius=10" alt="Avi974's Activity Graph" />
@@ -121,4 +121,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
-
