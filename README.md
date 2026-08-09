@@ -21,18 +21,21 @@
 - Backend Development | Scalable Systems | UI/UX Design
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats & Contribution Graph
 <p align="center">
   <a href="https://github.com/Avi974">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Avi974&include_all_commits=true&count_private=true&layout=compact&theme=highcontrast&border_radius=10" alt="Avi974's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=Avi974&theme=highcontrast&hide_border=true" alt="Avi974's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Avi974&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4" alt="Abhik Anand 's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Avi974&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4" alt="Abhik Anand's GitHub Trophies" />
 </p>
+
+<h3 align="left">📈 2026 Contribution Matrix</h3>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Avi974&theme=highcontrast&radius=10" alt="Avi974's Activity Graph" />
+  <img src="https://ghchart.rshah.org/40c463/Avi974" alt="Avi974's Contribution Graph" width="100%" />
 </p>
 
 
@@ -44,7 +47,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
 </p>
 
 <h3 align="center">Frontend</h3>
@@ -54,7 +56,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
 </p>
 
 <h3 align="center">Backend</h3>
@@ -62,7 +63,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
-
 </p>
 
 <h3 align="center">Database</h3>
@@ -71,14 +71,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />
-
 </p>
 
 <h3 align="center">Tools</h3>
@@ -89,7 +87,6 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
 </p>
 
 <p align="center">
