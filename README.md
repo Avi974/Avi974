@@ -11,8 +11,8 @@
 ## 📌 About Me
 - 🔭 Currently working on Backend Development & building robust server-side applications
 - 🌱 Learning Blockchain & Machine Learning
-- 👯 Open to collaborate on Open-source projects, Blockchain, and ML applications
-- 💬 Ask me about Web Development, Backend Technologies, APIs
+- 👯 Open to collaborate on Open-source projects, AI Agents, Blockchain, and Scalable Systems
+- 💬 Ask me about Web Development, Backend Technologies, APIs, AI Agents
 - 📫 Reach me at: anand.firm.dev@gmail.com
 - ⚡ Fun fact: I turn coffee ☕ into code 💻
 
